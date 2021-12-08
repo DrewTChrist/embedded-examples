@@ -3,7 +3,7 @@ import displayio
 import digitalio
 import terminalio
 import time
-from adafruit_display_text import label, bitmap_label, wrap_text_to_pixels
+from adafruit_display_text import label
 from adafruit_st7735r import ST7735R
 from adafruit_ahtx0 import AHTx0
 
